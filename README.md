@@ -1,6 +1,7 @@
 # ROVL-binaries
 
-[Download Here](https://github.com/CeruleanSonar/CeruleanTracker-binary/archive/refs/tags/20220329.zip)
+<!-- Commenting out link to avoid confusion for customers -->
+<!-- [Download Here](https://github.com/CeruleanSonar/CeruleanTracker-binary/archive/refs/tags/20220329.zip) -->
 
 CeruleanTracker.exe is a Windows executable for CeruleanTracker application.
 
